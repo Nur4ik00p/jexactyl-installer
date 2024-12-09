@@ -30,7 +30,7 @@ set -e
 
 export GITHUB_SOURCE="v1.1.1"
 export SCRIPT_RELEASE="v1.1.1"
-export GITHUB_BASE_URL="https://raw.githubusercontent.com/Nur4ik00p/jexactyl-installer"
+export GITHUB_BASE_URL="https://raw.githubusercontent.com/Nur4ik00p/jexactyl-installer/main"
 
 LOG_PATH="/var/log/pterodactyl-installer.log"
 
