@@ -62,7 +62,6 @@ echo "Проверка версий установленных программ:
 echo "======================================="
 echo "Node.js: $(node -v)"
 echo "NPM: $(npm -v)"
-echo "PM2: $(pm2 --version)"
 echo "Nginx: $(nginx -v 2>&1 | grep -o '[0-9./]*')"
 echo "cURL: $(curl --version | head -n 1)"
 
